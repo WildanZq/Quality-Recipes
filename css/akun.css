@@ -1,0 +1,61 @@
+
+.akun-cont {
+    margin: auto;
+    padding: 70px;
+    max-width: 900px;
+    min-height: 300px;
+}
+
+.akun-cont h1 {
+    font-size: 25px;
+}
+
+.akun-cont p {
+    font-size: 17px;
+}
+
+.akun-pp {
+    width: 250px;
+    height: 300px;
+}
+
+.akun-desc {
+    padding-top: 5px;
+    margin-left: 300px;
+    margin-right: 30px;
+}
+
+.pp-cont input[type="file"] {
+    margin-top: 10px;
+}
+
+.akun-desc input[type="submit"] {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 5px 20px;
+    margin-top: 5px;
+}
+
+.akun-desc input[type="submit"]:hover {
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.akun-desc input[type="text"] {
+    font-size: 25px;
+    padding: 5px 10px;
+    width: 50%;
+}
+
+.akun-desc textarea {
+    padding: 5px 10px;
+    font-size: 16px;
+    width: 95%;
+    height: 220px;
+    resize: vertical;
+}
+.pp-cont {
+    width: 250px;
+    display: inline;
+    float: left;
+}

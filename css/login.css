@@ -1,0 +1,69 @@
+body {
+    height: auto;
+}
+
+.login {
+    width: 100%;
+}
+
+.signup {
+    height: 550px;
+}
+
+.login-cont {
+    max-width: 300px;
+    display: table;
+    margin: auto;
+    padding: 30px;
+    padding-top: 70px;
+    background-color: #f2f2f2;
+}
+
+.login-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.login-form label {
+    font-size: 1.2em;
+}
+
+.login-a {
+    float: right;
+    margin: 5px 10px;
+    color: #005999;
+}
+
+.login-a:hover {
+    color: #3af;
+}
+
+.logo-login {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.tab {
+    cursor: pointer;
+    padding: 10px 15px;
+    float: right;
+    background-color: #f2f2f2;
+    border-bottom: solid black;
+    border-width: thin;
+}
+
+.tab-cont {
+    height: 40px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.tab-active {
+    background-color: white;
+    border: solid black;
+    border-bottom: none;
+    border-width: thin;
+}

@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1105px) {
+    .footer-cont {
+        width: 900px;
+    }
+    
+    .footer-follow {
+        margin-top: 20px;
+    }
+    
+    .container {
+        margin-bottom: 343px;
+    }
+}
+
+@media only screen and (max-width: 1015px) {
+    
+}
